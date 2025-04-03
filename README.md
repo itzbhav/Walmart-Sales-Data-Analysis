@@ -1,0 +1,2 @@
+Project Overview
+This project analyzes Walmart sales data to identify top-performing branches, product lines, and customer behavior trends. By leveraging SQL and MySQL, we extract meaningful insights to optimize sales strategies, customer targeting, and inventory management. The dataset, sourced from the Kaggle Walmart Sales Forecasting Competition, includes transactions from three Walmart branches across Mandalay, Yangon, and Naypyitaw.
